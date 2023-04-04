@@ -1,0 +1,6 @@
+Banco de dados: jpdatabase
+Host:db4free.net
+Porta:3306
+Nome de usuário: joaopaulo
+Email:jpmail98@gmail.com
+Senha:qwerty123
